@@ -1,0 +1,1 @@
+D:\VS2013\Ueser\MyProject\UWP\总结\UWP上使用SplitView和Pivot实现多层目录\Demo\Demo\Demo.csproj;x86
